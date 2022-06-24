@@ -1,0 +1,62 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/1019098820",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Seznam příjemců dotací z fondů EU za rok 2020"
+  },
+  "popis": {
+    "cs": "Seznam příjemců dotací obsahuje data za poslední dva fiskální roky."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "časové_pokrytí": {
+    "typ": "Časový interval",
+    "začátek": "2019-10-16",
+    "konec": "2020-10-15"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "příjemce",
+      "dotace"
+    ],
+    "en": [
+      "Subsidy",
+      "Beneficiary"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+  "dokumentace": "https://www.szif.cz/cs/seznam-prijemcu-dotaci",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Pavel Fried"
+    },
+    "e-mail": "mailto:pavel.fried@szif.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/48133981",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/1019098820/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2F1622192829773.zip",
+      "přístupové_url": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2F1622192829773.zip",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+    }
+  ]
+}
