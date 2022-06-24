@@ -1,12 +1,12 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/1019098820",
+  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/main/datov%C3%A9-sady/Seznam%20p%C5%99%C3%ADjemc%C5%AF%20dotac%C3%AD%20z%20fond%C5%AF%20EU%20za%20rok%202021.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam příjemců dotací z fondů EU za rok 2021"
   },
   "popis": {
-    "cs": "Seznam příjemců dotací EU (z fondů EU doplněných příspěvky z rozpočtu ČR) obsahuje data za fiskální rok EU, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny dle požadavků nařízení EP a Rady EU č. 1306/2013 a prováděcího nařízení komise EU č. 908/2014 v součtu za příjemce a jednotlivá opatření a jsou uvedena v Kč. Informace o druhu a výši Národních dotací (poskytovaných pouze z národních zdrojů) za daný rok jsou předmětem jiné datové sady.  "
+    "cs": "Seznam příjemců dotací EU (z fondů EU doplněných příspěvky z rozpočtu ČR) obsahuje data za fiskální rok EU, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny dle požadavků nařízení EP a Rady EU č. 1306/2013 a prováděcího nařízení komise EU č. 908/2014 v součtu za příjemce a jednotlivá opatření a jsou uvedena v Kč. Informace o druhu a výši Národních dotací (poskytovaných pouze z národních zdrojů) za daný rok jsou předmětem jiné datové sady."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
