@@ -3,7 +3,7 @@
   "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/main/datové-sady/Seznam%20p%C5%99%C3%ADjemc%C5%AF%20z%20fond%C5%AF%20EU%20za%20rok%202017.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Seznam příjemců z fondů EU za rok 2017"
+    "cs": "Seznam příjemců dotací z fondů EU za rok 2017"
   },
   "popis": {
     "cs": "Seznam příjemců dotací EU (z fondů EU doplněných příspěvky z rozpočtu ČR) obsahuje data za fiskální rok EU, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny dle požadavků nařízení EP a Rady EU č. 1306/2013 a prováděcího nařízení komise EU č. 908/2014 v součtu za příjemce a jednotlivá opatření a jsou uvedena v Kč. Informace o druhu a výši Národních dotací (poskytovaných pouze z národních zdrojů) za daný rok jsou předmětem jiné datové sady.  "
