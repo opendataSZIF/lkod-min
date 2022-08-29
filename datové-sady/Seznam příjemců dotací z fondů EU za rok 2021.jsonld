@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/main/datov%C3%A9-sady/Seznam%20p%C5%99%C3%ADjemc%C5%AF%20dotac%C3%AD%20z%20fond%C5%AF%20EU%20za%20rok%202021.jsonld",
+  "iri": "https://www.seznam.cz/",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam příjemců dotací z fondů EU za rok 2021"
@@ -45,7 +45,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/701d089209c98d3e9ce2138c8429156d/distribuce/0",
+      "iri": "https://www.seznam.cz//distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -53,10 +53,10 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2021.xml",
-      "přístupové_url": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2021.xml",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
+      "soubor_ke_stažení": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspdnd%2Fopendata%2Fspdnd.csv",
+      "přístupové_url": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspdnd%2Fopendata%2Fspdnd.csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
   ]
 }
