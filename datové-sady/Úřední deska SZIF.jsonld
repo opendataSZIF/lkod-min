@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/1084747519",
+  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/main/datov%C3%A9-sady/%C3%9A%C5%99edn%C3%AD%20deska%20SZIF.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Úřední deska SZIF"
