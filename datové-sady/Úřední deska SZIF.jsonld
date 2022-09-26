@@ -1,0 +1,59 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/1084747519",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Úřední deska SZIF"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje úřední desku organizace Státního zemědělského intervenčního fondu."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "úřední deska"
+    ],
+    "en": [
+      "official desk"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "dokumentace": "https://www.szif.cz/cs/uredni_deska",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/AGRI"
+  ],
+  "koncept_euroVoc": [],
+  "specifikace": [
+    "https://ofn.gov.cz/%C3%BA%C5%99edn%C3%AD-desky/2021-07-20/"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Jan Jelínek"
+    },
+    "e-mail": "mailto:jan.jelinek@szif.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/48133981",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/1084747519/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fsystemova_navigace%2Finformace_a_aktuality%2Furedni_deska_verejne_zakazky%2Furedni_deska%2Findex.json",
+      "přístupové_url": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fsystemova_navigace%2Finformace_a_aktuality%2Furedni_deska_verejne_zakazky%2Furedni_deska%2Findex.json",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+      "schéma": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json"
+    }
+  ]
+}
