@@ -49,8 +49,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fsystemova_navigace%2Finformace_a_aktuality%2Furedni_deska_verejne_zakazky%2Furedni_deska%2Findex.json",
-      "přístupové_url": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fsystemova_navigace%2Finformace_a_aktuality%2Furedni_deska_verejne_zakazky%2Furedni_deska%2Findex.json",
+      "soubor_ke_stažení": "https://www.szif.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fsystemova_navigace%2Finformace_a_aktuality%2Furedni_deska_verejne_zakazky%2Furedni_deska%2Findex.json",
+      "přístupové_url": "https://www.szif.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fsystemova_navigace%2Finformace_a_aktuality%2Furedni_deska_verejne_zakazky%2Furedni_deska%2Findex.json",
       "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
       "schéma": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json"
