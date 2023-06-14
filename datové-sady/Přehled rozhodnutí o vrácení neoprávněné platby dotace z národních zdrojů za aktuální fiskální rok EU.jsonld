@@ -28,7 +28,7 @@
       "Financial return"
     ]
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
   "dokumentace": "https://www.szif.cz/cs/seznam-prijemcu-nd",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
