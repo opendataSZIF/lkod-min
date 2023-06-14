@@ -6,7 +6,7 @@
     "cs": "Seznam příjemců dotací z národních zdrojů za rok 2022"
   },
   "popis": {
-    "cs": "Seznam příjemců národních dotací (poskytovaných pouze ze státního rozpočtu ČR) obsahuje data za fiskální rok, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona 106/1999 Sb. o svobodném přístupu k informacím a příslušných nařízeních EU a jsou uvedena v součtu za příjemce a opatření v Kč. Informace o druhu a výši dotací z EU fondů doplněných o příspěvky z rozpočtu ČR jsou předmětem jiné datové sady."
+    "cs": "Seznam příjemců národních dotací (poskytovaných pouze ze státního rozpočtu ČR) obsahuje data za fiskální rok, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona 256/2000 Sb. o Státním zemědělském intervenčním fondu a příslušných nařízeních EU k datu platby a obsahují: datum nabytí právní moci rozhodnutí o poskytnutí dotace, identifikaci příjemce dotace, částku dotace a popis opatření, ke kterému se dotace vztahuje. Částky jsou uvedeny v Kč. Informace o druhu a výši dotací z EU fondů doplněných o příspěvky z rozpočtu ČR jsou předmětem jiné datové sady."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
