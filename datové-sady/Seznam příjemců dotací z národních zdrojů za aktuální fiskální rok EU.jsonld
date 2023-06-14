@@ -6,7 +6,7 @@
     "cs": "Seznam příjemců dotací z národních zdrojů za aktuální fiskální rok EU"
   },
   "popis": {
-    "cs": "Seznam příjemců dotací z národních zdrojů za aktuální fiskální rok (poskytovaných pouze ze státního rozpočtu ČR) obsahuje data za fiskální rok EU, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona 256/2000 Sb. o Státním zemědělském intervenčním fondu nejpozději do 7 dnů po vyplacení dotace příjemci a jsou uvedena v CZK."
+    "cs": "Seznam příjemců dotací z národních zdrojů za aktuální fiskální rok (poskytovaných pouze ze státního rozpočtu ČR) obsahuje data za fiskální rok EU, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona 256/2000 Sb. o Státním zemědělském intervenčním fondu nejpozději do 7 dnů po vyplacení dotace příjemci a obsahují: datum nabytí právní moci rozhodnutí o poskytnutí dotace, identifikaci příjemce dotace, částku dotace a popis opatření, ke kterému se dotace vztahuje. Částky jsou uvedeny v Kč."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
