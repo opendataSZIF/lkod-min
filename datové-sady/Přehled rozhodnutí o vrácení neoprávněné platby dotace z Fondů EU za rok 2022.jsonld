@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fvkd2022.csv",
+  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/main/datov%C3%A9-sady/P%C5%99ehled%20rozhodnut%C3%AD%20o%20vr%C3%A1cen%C3%AD%20neopr%C3%A1vn%C4%9Bn%C3%A9%20platby%20dotace%20z%20Fond%C5%AF%20EU%20za%20rok%202022.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Přehled rozhodnutí o vrácení neoprávněné platby dotace z Fondů EU za rok 2022"
