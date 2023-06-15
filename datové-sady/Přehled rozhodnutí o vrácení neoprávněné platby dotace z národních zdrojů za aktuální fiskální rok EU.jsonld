@@ -45,7 +45,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fvkd2022.csv/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/9d414bca24bd8e4d96df701b57e10d90/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
