@@ -41,7 +41,7 @@
     },
     "e-mail": "mailto:pavel.fried@szif.cz"
   },
-  "poskytovatel": "https://www.szif.cz/cs/seznam-prijemcu-dotaci",
+  "poskytovatel": "https://www.szif.cz/cs/seznam-prijemcu-nd",
   "distribuce": [
     {
       "typ": "Distribuce",
