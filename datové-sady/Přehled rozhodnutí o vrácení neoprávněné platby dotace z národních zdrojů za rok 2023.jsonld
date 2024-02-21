@@ -6,7 +6,7 @@
     "cs": "Přehled rozhodnutí o vrácení neoprávněné platby dotace z národních zdrojů za rok 2023"
   },
   "popis": {
-    "cs": "Přehled rozhodnutí o vrácení neoprávněné platby dotace EU (z fondů EU doplněných příspěvky z rozpočtu ČR) obsahuje data za fiskální rok EU, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona č. 256/2000 Sb. Do konkrétního roku jsou zařazena dle data nabytí právní moci rozhodnutí a v částce z rozhodnutí, bez ohledu na následné vypořádání požadované částky. Částky jsou uvedeny v Kč. Dále je zveřejněn příjemce dotace a opatření, ke kterému se dotace vztahuje. Přehled rozhodnutí o vrácení neoprávněné platby dotací poskytovaných pouze z národních zdrojů je předmětem jiné datové sady."
+    "cs": "Přehled rozhodnutí o vrácení neoprávněné platby národních dotací (poskytovaných pouze ze státního rozpočtu ČR) obsahuje data za fiskální rok, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona č. 256/2000 Sb. Do konkrétního roku jsou zařazena dle data nabytí právní moci rozhodnutí a v částce z rozhodnutí, bez ohledu na reálné datum vrácení požadované částky. Částky jsou uvedeny v Kč. Dále je zveřejněn příjemce dotace a opatření, ke kterému se dotace vztahuje. Přehled rozhodnutí o vrácení neoprávněné platby dotací poskytovaných z EU fondů je předmětem jiné datové sady."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
