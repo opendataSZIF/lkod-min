@@ -1,31 +1,26 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/main/datov%C3%A9-sady/P%C5%99ehled%20rozhodnut%C3%AD%20o%20vr%C3%A1cen%C3%AD%20neopr%C3%A1vn%C4%9Bn%C3%A9%20platby%20dotace%20z%20n%C3%A1rodn%C3%ADch%20zdroj%C5%AF%20za%20aktu%C3%A1ln%C3%AD%20fisk%C3%A1ln%C3%AD%20rok%20EU.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/94e397ef421f34f273cd57447b8aae9b",
   "typ": "Datová sada",
   "název": {
-    "cs": "Přehled Rozhodnutí o vrácení neoprávněné platby dotace z národních zdrojů za aktuální fiskální rok EU"
+    "cs": "Přehled rozhodnutí o vrácení neoprávněné platby dotace z národních zdrojů za aktuální fiskální rok EU"
   },
   "popis": {
-    "cs": "Přehled rozhodnutí o vrácení neoprávněné platby národních dotací (poskytovaných pouze ze státního rozpočtu ČR) obsahuje data za fiskální rok EU, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona 256/2000 Sb. o Státním zemědělském intervenčním fondu nejpozději do 7 dnů, v částce, a dle data nabytí právní moci rozhodnutí, bez ohledu na následné vypořádání požadované částky. Jsou uvedena v Kč. "
+    "cs": "Přehled rozhodnutí o vrácení neoprávněné platby národních dotací (poskytovaných pouze ze státního rozpočtu ČR) obsahuje data za fiskální rok, který začíná kalendářně vždy 16. října „N-1“ a končí 15. října daného roku „N“. Data jsou zveřejněny na základě zákona č. 256/2000 Sb. Do konkrétního roku jsou zařazena dle data nabytí právní moci rozhodnutí a v částce z rozhodnutí, bez ohledu na reálné datum vrácení požadované částky. Částky jsou uvedeny v Kč. Dále je zveřejněn příjemce dotace a opatření, ke kterému se dotace vztahuje. Přehled rozhodnutí o vrácení neoprávněné platby dotací poskytovaných z EU fondů je předmětem jiné datové sady."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
   "geografické_území": [],
   "prostorové_pokrytí": [],
-  "časové_pokrytí": {
-    "typ": "Časový interval",
-    "začátek": "2022-10-16",
-    "konec": "2023-10-15"
-  },
   "klíčové_slovo": {
     "cs": [
       "dotace",
       "vratka"
     ],
     "en": [
-      "subsidy",
-      "financial return"
+      "financial return",
+      "subsidy"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
@@ -41,11 +36,11 @@
     },
     "e-mail": "mailto:pavel.fried@szif.cz"
   },
-  "poskytovatel": "https://www.szif.cz/cs/seznam-prijemcu-nd",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/48133981",
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/9d414bca24bd8e4d96df701b57e10d90/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/94e397ef421f34f273cd57447b8aae9b/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
