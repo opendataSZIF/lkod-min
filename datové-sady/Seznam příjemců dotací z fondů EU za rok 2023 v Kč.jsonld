@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/d0a2bd41241456e33e8a0d09bd370538",
+  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/main/datov%C3%A9-sady/Seznam%20p%C5%99%C3%ADjemc%C5%AF%20dotac%C3%AD%20z%20fond%C5%AF%20EU%20za%20rok%202023%20v%20K%C4%8D.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam příjemců dotací z fondů EU za rok 2023 v Kč"
@@ -51,8 +51,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2023czk.csv",
-      "přístupové_url": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2023czk.csv",
+      "soubor_ke_stažení": "https://www.szif.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2023czk.csv",
+      "přístupové_url": "https://www.szif.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fspd2023czk.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
