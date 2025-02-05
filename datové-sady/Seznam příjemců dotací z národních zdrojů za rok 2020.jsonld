@@ -29,7 +29,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
-  "dokumentace": "https://www.szif.cz/cs/seznam-prijemcu-nd",
+  "dokumentace": "https://www.szif.gov.cz/cs/seznam-prijemcu-nd",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -53,8 +53,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.szif.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspdnd%2Fopendata%2Fspdnd2020.xml",
-      "přístupové_url": "https://www.szif.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspdnd%2Fopendata%2Fspdnd2020.xml",
+      "soubor_ke_stažení": "https://www.szif.gov.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspdnd%2Fopendata%2Fspdnd2020.xml",
+      "přístupové_url": "https://www.szif.gov.cz/cs/CmOpendata?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspdnd%2Fopendata%2Fspdnd2020.xml",
       "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
     }
