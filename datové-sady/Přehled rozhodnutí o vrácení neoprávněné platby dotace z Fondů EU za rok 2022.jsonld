@@ -29,7 +29,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
-  "dokumentace": "https://www.szif.cz/cs/seznam-prijemcu-dotaci",
+  "dokumentace": "https://www.szif.gov.cz/cs/seznam-prijemcu-dotaci",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -39,13 +39,13 @@
     "jméno": {
       "cs": "Pavel Fried"
     },
-    "e-mail": "mailto:pavel.fried@szif.cz"
+    "e-mail": "mailto:pavel.fried@szif.gov.cz"
   },
-  "poskytovatel": "https://www.szif.cz/cs/seznam-prijemcu-dotaci",
+  "poskytovatel": "https://www.szif.gov.cz/cs/seznam-prijemcu-dotaci",
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://www.szif.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fvkd2022.csv/distribuce/0",
+      "iri": "https://www.szif.gov.cz/cs/CmDocument?rid=%2Fapa_anon%2Fcs%2Fdokumenty_ke_stazeni%2Fpkp%2Fspd%2Fopendata%2Fvkd2022.csv/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
