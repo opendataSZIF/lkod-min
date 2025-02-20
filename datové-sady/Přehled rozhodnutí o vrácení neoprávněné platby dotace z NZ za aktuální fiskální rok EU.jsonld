@@ -24,7 +24,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
-  "dokumentace": "https://www.szif.cz/cs/seznam-prijemcu-nd",
+  "dokumentace": "https://szif.gov.cz/cs/seznam-prijemcu-nd",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
@@ -34,7 +34,7 @@
     "jméno": {
       "cs": "Pavel Fried"
     },
-    "e-mail": "mailto:pavel.fried@szif.cz"
+    "e-mail": "mailto:pavel.fried@szif.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/48133981",
   "distribuce": [
