@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/20cebd58944e852b707a90872b042f7d",
+  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/refs/heads/main/datov%C3%A9-sady/Seznam%20p%C5%99%C3%ADjemc%C5%AF%20dotac%C3%AD%20z%20fond%C5%AF%20EU%20za%20rok%202024%20v%20K%C4%8D.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam příjemců dotací z fondů EU za rok 2024 v Kč"
