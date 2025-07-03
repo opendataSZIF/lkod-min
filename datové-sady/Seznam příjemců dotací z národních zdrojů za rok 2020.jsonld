@@ -29,7 +29,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/NEVER",
-  "dokumentace": "https://www.szif.gov.cz/cs/seznam-prijemcu-nd",
+  "dokumentace": "https://szif.gov.cz/cs/seznam-prijemcu-nd",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
