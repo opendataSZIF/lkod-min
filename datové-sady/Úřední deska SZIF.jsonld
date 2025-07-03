@@ -22,7 +22,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
-  "dokumentace": "https://www.szif.cz/cs/uredni_deska",
+  "dokumentace": "https://szif.cz/cs/uredni_deska",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/AGRI"
   ],
