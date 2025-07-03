@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/77619fd78e4f130b9796b3db7e83b756",
+  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/refs/heads/main/datov%C3%A9-sady/P%C5%99ehled%20rozhodnut%C3%AD%20o%20vr%C3%A1cen%C3%AD%20neopr%C3%A1vn%C4%9Bn%C3%A9%20platby%20dotace%20z%20Fond%C5%AF%20EU%20za%20rok%202024.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Přehled rozhodnutí o vrácení neoprávněné platby dotace z Fondů EU za rok 2024"
