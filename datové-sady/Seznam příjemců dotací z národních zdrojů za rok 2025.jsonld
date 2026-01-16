@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/48133981/d53578117b1376237a7212d38a99a68d",
+  "iri": "https://raw.githubusercontent.com/opendataSZIF/lkod-min/refs/heads/main/datov%C3%A9-sady/Seznam%20p%C5%99%C3%ADjemc%C5%AF%20dotac%C3%AD%20z%20n%C3%A1rodn%C3%ADch%20zdroj%C5%AF%20za%20rok%202025.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam příjemců dotací z národních zdrojů za rok 2025"
